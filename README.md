@@ -1,7 +1,7 @@
 # Baby Meal Tracker 🍼
 
 
-A clean, full-stack web app for parents to log and track their baby's daily meals. Built # solo, # demonstrating end-to-end development with Angular, Node.js, and PostgreSQL.
+A clean, full-stack web app for parents to log and track their baby's daily meals. Built solo, demonstrating end-to-end development with Angular, Node.js, and PostgreSQL.
 
 ## 🚀 Live Demo
 **👉 Use the App Here:** [Baby Meal Tracker](https://baby-meal-frontend.vercel.app)
